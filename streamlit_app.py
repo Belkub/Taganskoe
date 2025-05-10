@@ -1,3 +1,4 @@
+pip install matplotlib
 from tkinter import *
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
