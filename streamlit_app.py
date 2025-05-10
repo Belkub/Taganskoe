@@ -2,6 +2,7 @@ from tkinter import *
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 from math import*
+import matplotlib
 from matplotlib import pyplot as plt   
 from matplotlib import style
 import numpy as np
